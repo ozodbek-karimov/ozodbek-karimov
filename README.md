@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozodbek-karimov" alt="ozodbek-karimov" /></a> </p>
 
-- 🔭 I’m currently working on [Profex - Daily jobs for masters](https://github.com/profexuz)
+- 🔭 I’m currently working on [Profex App](https://github.com/profexuz)
 
-- 📫 How to reach me **ozodbek.karimov.official**
+- 💬 Ask me about **Android, Kotlin, Java**
+
+- 📫 How to reach me **ozodbek.karimov.official@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozodbek-karimov&show_icons=true&locale=en" alt="ozodbek-karimov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozodbek-karimov&" alt="ozodbek-karimov" /></p>
+
